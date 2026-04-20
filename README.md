@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [@your_twitter_handle](https://twitter.com/) - email@example.com
 
-Project Link: [AI-Powered Multi-Agent Resume Assistant](https://github.com/your-username/project-repo)
+Project Link: [AI-Powered Multi-Agent Resume Assistant](https://github.com/swarnqaar/AI-Powered_Multi-Agent_Resume_Screening_and_Interview_Assistant.git)
 
 <hr>
 <div align="center">
