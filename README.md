@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.icons8.com/?size=150&id=42Lq0rW1rXn4&format=png&color=000000" alt="Robot Logo" width="120" height="120">
   <h1 align="center">🤖 AI-Powered Multi-Agent Resume Screening <br>& Interview Assistant</h1>
   
   <p align="center">
