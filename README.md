@@ -130,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📫 Contact
 
-Your Name - [@your_twitter_handle](https://twitter.com/) - email@example.com
+Your Name - (https://www.linkedin.com/in/shubham-kumar-02ab4a28a/) - shubamkumar3039@gmail.com
 
 Project Link: [AI-Powered Multi-Agent Resume Assistant](https://github.com/swarnqaar/AI-Powered_Multi-Agent_Resume_Screening_and_Interview_Assistant.git)
 
